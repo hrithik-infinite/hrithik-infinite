@@ -6,8 +6,10 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=hrithik-infinite&label=Profile%20views&color=blueviolet&style=flat&base=1000" alt="hrithik-infinite" /></p>
 
-- 🔭 I’m currently working in [Oracle (OFSS)](https://www.oracle.com/in/financial-services/) - 🌱 I’m currently learning **Payment Integration & Authentication** - 💬 Ask me about **Javascript, Material UI, MySQL, OJET, Knockout.js, React, Next.js,
-Tailwind CSS, Shadcn/ui** - 📫 How to reach me **hrithikinfinite@gmail.com** - ⚡ Fun fact **I loves development alongside music**
+- 🔭 I’m currently working in [Oracle (OFSS)](https://www.oracle.com/in/financial-services/) 
+- 🌱 I’m currently learning **Payment Integration & Authentication** 
+- 💬 Ask me about **Javascript, Material UI, MySQL, OJET, Knockout.js, React, Next.js, Tailwind CSS, Shadcn/ui** - 📫 How to reach me **hrithikinfinite@gmail.com** 
+- ⚡ Fun fact **I loves development alongside music**
 
 <h3 align="left">Connect with me:</h3>
 
