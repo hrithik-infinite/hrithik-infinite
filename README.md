@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working in Oracle (OFSS)<br>🌱 I’m currently learning Frontend System Design, Next JS<br>💬 Ask me about Javascript, React, Next.js, Tailwind CSS, Shadcn/ui, MySQL, OJET, Knockout.js<br>📫 Reach me at hrithikinfinite@gmail.com<br>⚡ Fun fact I love development alongside music
 
-
+[![](https://visitcount.itsvg.in/api?id=hrithik-infinite&icon=2&color=6&base=1000)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hrithik-agarwal) 
 
@@ -15,8 +15,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hrithik-infinite&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hrithik-infinite&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=hrithik-infinite&icon=2&color=6&base=1000)](https://visitcount.itsvg.in)
+
