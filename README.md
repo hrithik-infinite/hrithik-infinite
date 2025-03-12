@@ -5,7 +5,7 @@
   
 
   
-- 🔭 I’m currently working on [DocuChat](https://github.com/hrithik-infinite/DocuChat)  
+- 🔭 I’m currently working on *[Frontend System Design Question](https://github.com/hrithik-infinite/Machine-coding-questions)*
   
 - 🌱 I’m currently learning **Frontend System Design, Next JS**  
   
