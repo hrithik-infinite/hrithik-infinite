@@ -15,8 +15,6 @@
 <!-- CONTACT -->
 <p align="center">
   <a href="https://www.linkedin.com/in/hrithikagarwal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:hrithikinfinite@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.npmjs.com/package/core-ts-utils"><img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" /></a>
   <a href="https://github.com/hrithik-infinite"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <img src="https://komarev.com/ghpvc/?username=hrithik-infinite&label=Profile+views&color=7aa2f7&style=for-the-badge" alt="Profile views" />
 </p>
