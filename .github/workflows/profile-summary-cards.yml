@@ -15,10 +15,24 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # Generate cards into ./profile-summary-card-output WITHOUT pushing.
+      # The action's built-in push sends the whole workspace tree (incl.
+      # .github/workflows) which a default GITHUB_TOKEN cannot push to a
+      # non-default branch. So we generate only, then publish the folder.
       - name: Generate profile summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          BRANCH_NAME: "profile-summary-cards"
+          AUTO_PUSH: "false"
+
+      # Force-publish ONLY the generated folder's contents to the branch
+      # (clean tree, no .github) — same pattern the snake workflow uses.
+      - name: Publish cards to profile-summary-cards branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: profile-summary-cards
+          build_dir: profile-summary-card-output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
