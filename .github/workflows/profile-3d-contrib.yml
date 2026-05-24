@@ -1,0 +1,39 @@
+name: GitHub Profile 3D Contrib
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # every 12 hours
+  workflow_dispatch: # allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    name: generate
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate 3D contribution calendar
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.2
+        env:
+          USERNAME: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # The action emits ~11 variants; the README embeds only night-green.
+      # Keep just that one so the branch stores solely what's used.
+      - name: Keep only the embedded variant
+        run: |
+          cd profile-3d-contrib
+          find . -type f ! -name 'profile-night-green.svg' -delete
+
+      # Force-publish the folder's contents to a dedicated branch (clean tree,
+      # no .github) — avoids the default-token workflow-push limitation.
+      - name: Publish to profile-3d-contrib branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: profile-3d-contrib
+          build_dir: profile-3d-contrib
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

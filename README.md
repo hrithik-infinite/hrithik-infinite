@@ -93,17 +93,13 @@
 - **[core-ts-utils](https://www.npmjs.com/package/core-ts-utils)** — Published TypeScript utility library for smaller bundles. `TypeScript` — [npm](https://www.npmjs.com/package/core-ts-utils)
 
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!--                       CONTRIBUTION SNAKE                     -->
+<!--                     3D CONTRIBUTION CALENDAR                  -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-## 🐍 Contribution Activity
+## 🧊 Contribution Activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hrithik-infinite/hrithik-infinite/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hrithik-infinite/hrithik-infinite/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/hrithik-infinite/hrithik-infinite/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img alt="3D contribution calendar" src="https://raw.githubusercontent.com/hrithik-infinite/hrithik-infinite/profile-3d-contrib/profile-night-green.svg" />
 </p>
 
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
