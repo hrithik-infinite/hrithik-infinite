@@ -102,18 +102,6 @@
   <img alt="3D contribution calendar" src="https://raw.githubusercontent.com/hrithik-infinite/hrithik-infinite/profile-3d-contrib/profile-contrib.svg" />
 </p>
 
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!--                         GITHUB STATS                         -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hrithik-infinite/hrithik-infinite/profile-summary-cards/tokyonight/0-profile-details.svg" alt="profile details" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hrithik-infinite/hrithik-infinite/profile-summary-cards/tokyonight/3-stats.svg" alt="github stats" />
-</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=hrithik-infinite&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
