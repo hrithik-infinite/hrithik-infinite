@@ -99,7 +99,7 @@
 ## 🧊 Contribution Activity
 
 <p align="center">
-  <img alt="3D contribution calendar" src="https://raw.githubusercontent.com/hrithik-infinite/hrithik-infinite/profile-3d-contrib/profile-night-green.svg" />
+  <img alt="3D contribution calendar" src="https://raw.githubusercontent.com/hrithik-infinite/hrithik-infinite/profile-3d-contrib/profile-contrib.svg" />
 </p>
 
 <!-- ╔══════════════════════════════════════════════════════════╗ -->

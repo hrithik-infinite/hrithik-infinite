@@ -20,13 +20,16 @@ jobs:
         env:
           USERNAME: ${{ github.repository_owner }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Custom look: animated bars, tokyonight blue→purple palette,
+          # adaptive light/dark. See .github/3d-contrib-settings.json.
+          SETTING_JSON: .github/3d-contrib-settings.json
 
-      # The action emits ~11 variants; the README embeds only night-green.
-      # Keep just that one so the branch stores solely what's used.
+      # With SETTING_JSON the action emits only the customized file, but guard
+      # against stragglers so the branch stores solely what's embedded.
       - name: Keep only the embedded variant
         run: |
           cd profile-3d-contrib
-          find . -type f ! -name 'profile-night-green.svg' -delete
+          find . -type f ! -name 'profile-contrib.svg' -delete
 
       # Force-publish the folder's contents to a dedicated branch (clean tree,
       # no .github) — avoids the default-token workflow-push limitation.
