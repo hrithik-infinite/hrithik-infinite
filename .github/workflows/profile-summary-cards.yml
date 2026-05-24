@@ -27,6 +27,19 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           AUTO_PUSH: "false"
 
+      # The action emits every card for every theme (~200 files), but the
+      # README embeds only two tokyonight cards. Delete the rest so the
+      # branch stores solely what's used. The publish step force-pushes the
+      # folder, so this also wipes any previously-committed bloat.
+      - name: Keep only the cards used in the README
+        run: |
+          cd profile-summary-card-output
+          find . -type f \
+            ! -path './tokyonight/0-profile-details.svg' \
+            ! -path './tokyonight/3-stats.svg' \
+            -delete
+          find . -type d -empty -delete
+
       # Force-publish ONLY the generated folder's contents to the branch
       # (clean tree, no .github) — same pattern the snake workflow uses.
       - name: Publish cards to profile-summary-cards branch
