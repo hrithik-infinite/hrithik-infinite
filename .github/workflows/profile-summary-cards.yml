@@ -26,6 +26,11 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           AUTO_PUSH: "false"
+          # Drop languages that misrepresent the stack on the "by repo" card
+          # (old notebooks / college C++), matching the curated tech section.
+          EXCLUDE: "Jupyter Notebook,C++"
+          # Productive-time histogram in IST (closest documented integer to +5:30).
+          UTC_OFFSET: "5"
 
       # Force-publish ONLY the generated folder's contents to the branch
       # (clean tree, no .github) — same pattern the snake workflow uses.
