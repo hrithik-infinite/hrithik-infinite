@@ -154,10 +154,6 @@
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/hrithik-infinite/hrithik-infinite/profile-summary-cards/tokyonight/3-stats.svg" alt="github stats" />
-  <img src="https://raw.githubusercontent.com/hrithik-infinite/hrithik-infinite/profile-summary-cards/tokyonight/1-repos-per-language.svg" alt="repos per language" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hrithik-infinite/hrithik-infinite/profile-summary-cards/tokyonight/4-productive-time.svg" alt="productive time" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=hrithik-infinite&theme=tokyonight&hide_border=true" alt="streak stats" />
