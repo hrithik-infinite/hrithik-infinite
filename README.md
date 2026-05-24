@@ -88,44 +88,9 @@
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🐶 <a href="https://github.com/hrithik-infinite/Watchdog">Watchdog</a></h3>
-      <p>Chrome extension for accessibility &amp; performance audits — WCAG-based issue detection, Core Web Vitals analysis, and visual element highlighting to find and fix issues fast.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/axe--core-663399?style=flat-square" />
-      </p>
-      <a href="https://github.com/hrithik-infinite/Watchdog"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📄 <a href="https://docuchat-hrithik.vercel.app/">DocuChat</a></h3>
-      <p>AI-powered platform that generates actionable PDF summaries, with secure authentication, Stripe payments, and a responsive UI.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-      </p>
-      <a href="https://docuchat-hrithik.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-7aa2f7?style=flat-square&logo=vercel&logoColor=white" /></a>
-      <a href="https://github.com/hrithik-infinite/DocuChat"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📦 <a href="https://www.npmjs.com/package/core-ts-utils">core-ts-utils</a></h3>
-      <p>Published TypeScript utility library of optimized functions for reduced bundle sizes.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/npm/v/core-ts-utils?style=flat-square&color=CB3837&logo=npm" />
-      </p>
-      <a href="https://www.npmjs.com/package/core-ts-utils"><img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
-    </td>
-    <td width="50%" valign="top"></td>
-  </tr>
-</table>
+- **[DocuChat](https://docuchat-hrithik.vercel.app/)** — AI-powered PDF summaries with secure auth & Stripe payments. `Next.js` · `Claude` · `Stripe` — [Live Demo](https://docuchat-hrithik.vercel.app/) · [Code](https://github.com/hrithik-infinite/DocuChat)
+- **[Watchdog](https://github.com/hrithik-infinite/Watchdog)** — Chrome extension for accessibility & performance audits (WCAG, Core Web Vitals). `React` · `TypeScript` · `axe-core` — [Code](https://github.com/hrithik-infinite/Watchdog)
+- **[core-ts-utils](https://www.npmjs.com/package/core-ts-utils)** — Published TypeScript utility library for smaller bundles. `TypeScript` — [npm](https://www.npmjs.com/package/core-ts-utils)
 
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
 <!--                       CONTRIBUTION SNAKE                     -->
