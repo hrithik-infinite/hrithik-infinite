@@ -42,7 +42,6 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://vitest.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg" alt="vitest" width="40" height="40"/> </a>
@@ -59,11 +58,20 @@
 - **[DocuChat](https://github.com/hrithik-infinite/DocuChat)** - AI-powered platform generating actionable PDF summaries with secure auth and Stripe payments (Next.js, Claude, Stripe, Tailwind CSS)
 - **[core-ts-utils](https://www.npmjs.com/package/core-ts-utils)** - TypeScript utility library for optimized functions and reduced bundle sizes
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrithik-infinite&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook&theme=tokyonight&hide_border=true" alt="hrithik-infinite" /></p>
+<h3 align="left">GitHub Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrithik-infinite&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="hrithik-infinite" /></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hrithik-infinite/hrithik-infinite/profile-summary-cards/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hrithik-infinite/hrithik-infinite/profile-summary-cards/profile-summary-card-output/tokyonight/3-stats.svg" alt="github stats" />
+  <img src="https://raw.githubusercontent.com/hrithik-infinite/hrithik-infinite/profile-summary-cards/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos per language" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hrithik-infinite/hrithik-infinite/profile-summary-cards/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="productive time" />
+</p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=hrithik-infinite&theme=tokyonight&hide_border=true" alt="hrithik-infinite" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=hrithik-infinite&theme=tokyonight&hide_border=true" alt="hrithik-infinite" /></p>
 
 <h3 align="left">Contribution Graph:</h3>
 
